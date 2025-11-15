@@ -1,10 +1,7 @@
-#!/usr/bin/env python3
 """
 Generate Publication-Quality Figures Using 100% AUTHENTIC DATA
 Author: Shamsuddin Ahmed & Abdullah Al Mamun
 Institution: Daffodil International University & University of Saskatchewan
-
-UPDATED VERSION - Uses new file paths and data structure
 """
 
 import os
