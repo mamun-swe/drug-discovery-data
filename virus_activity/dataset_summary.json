@@ -1,0 +1,23 @@
+{
+  "total_samples": 27158,
+  "num_viruses": 6,
+  "viruses": [
+    "HIV-1",
+    "Influenza A",
+    "Hepatitis C",
+    "SARS-CoV-2",
+    "Dengue",
+    "Zika"
+  ],
+  "active_compounds": 14245,
+  "inactive_compounds": 12913,
+  "active_ratio": 0.5245231607629428,
+  "virus_distribution": {
+    "Hepatitis C": 7208,
+    "HIV-1": 5811,
+    "Dengue": 5450,
+    "Zika": 3604,
+    "SARS-CoV-2": 3601,
+    "Influenza A": 1484
+  }
+}
