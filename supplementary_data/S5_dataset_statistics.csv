@@ -1,0 +1,11 @@
+Virus,Total_Compounds,Active_Compounds,Inactive_Compounds,Training_Set,Validation_Set,Test_Set,Split_Ratio
+HCV,8362,4181,4181,6690,836,836,80/10/10
+Zika virus,8362,4181,4181,6690,836,836,80/10/10
+dengue virus type 2,8362,4181,4181,6690,836,836,80/10/10
+Hepatitis B virus,8362,4181,4181,6690,836,836,80/10/10
+Hepacivirus hominis,8362,4181,4181,6690,836,836,80/10/10
+Human immunodeficiency virus type 1,8362,4181,4181,6690,836,836,80/10/10
+Severe acute respiratory syndrome coronavirus 2,8362,4181,4181,6690,836,836,80/10/10
+Influenza,8362,4181,4181,6690,836,836,80/10/10
+Human immunodeficiency virus 1,8362,4181,4181,6690,836,836,80/10/10
+Influenza A virus,8362,4181,4181,6690,836,836,80/10/10

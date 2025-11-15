@@ -1,0 +1,12 @@
+Virus,Original_Candidates,Novel_Candidates,Removed_Candidates,Novel_Percentage,Filtering_Threshold
+HCV,1000,955,45,95.5,Tanimoto > 0.85
+Zika virus,1000,977,23,97.7,Tanimoto > 0.85
+dengue virus type 2,1000,791,209,79.1,Tanimoto > 0.85
+Hepatitis B virus,1000,804,196,80.4,Tanimoto > 0.85
+Hepacivirus hominis,1000,961,39,96.1,Tanimoto > 0.85
+Human immunodeficiency virus type 1,1000,960,40,96.0,Tanimoto > 0.85
+Human immunodeficiency virus 1,1000,923,77,92.3,Tanimoto > 0.85
+Influenza,1000,989,11,98.9,Tanimoto > 0.85
+Influenza A virus,882,846,36,95.9,Tanimoto > 0.85
+Severe acute respiratory syndrome coronavirus 2,12,10,2,83.3,Tanimoto > 0.85
+TOTAL,8894,8216,678,92.4,Tanimoto > 0.85
